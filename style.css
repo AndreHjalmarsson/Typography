@@ -1,0 +1,56 @@
+
+.container {
+  background-color: #B39EB5;
+}
+
+.presentation {
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 10%;
+  padding-top: 8%;
+}
+
+.presentation h1 {
+letter-spacing: 3px;
+}
+
+.presentation h5 {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 4%;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 23px;
+}
+
+.row .col-md {
+  padding: 0 70px;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+
+.row .col-md h3 {
+  padding-bottom: 3%;
+  letter-spacing: 1px;
+}
+
+footer .container .col-md {
+  background-color: #DCDCDC;
+  padding: 10px;
+  letter-spacing: 0px;
+  line-height: 18px;
+  font-size: 12px;
+}
+.list {
+  padding: 15px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+.link {
+  color: #696969;
+  text-decoration: underline;
+}
+footer h6 {
+  font-size: 12px;
+}
